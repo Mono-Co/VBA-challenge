@@ -20,13 +20,16 @@ Ben
 
 **Screen Shots**
 This is the 2018 Stock Page - Showing the raw data on the LHS and the resulting data table, conditional formatting and bonus areas on the RHS.
+
 <img width="927" alt="image" src="https://github.com/Mono-Co/VBA-challenge/assets/69753431/b6c41a06-cf08-4abe-b232-9aae04a52386">
 
 
 This is the 2019 Stock Page - Showing the raw data on the LHS and the resulting data table, conditional formatting and bonus areas on the RHS.
+
 <img width="931" alt="image" src="https://github.com/Mono-Co/VBA-challenge/assets/69753431/27d9eea4-3afa-4f17-8a9a-c0b5667b91d8">
 
 
 This is the 2020 Stock Page - Showing the raw data on the LHS and the resulting data table, conditional formatting and bonus areas on the RHS.
+
 <img width="983" alt="image" src="https://github.com/Mono-Co/VBA-challenge/assets/69753431/fc0be9dd-61fd-43dd-b7a0-2f8a1229ed29">
 
