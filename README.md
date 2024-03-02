@@ -13,12 +13,16 @@ Create a VBS script that loops through all the stocks for one year and outputs t
 5. We have also added a colour coded formatting to the cell to show a positive or negative movement of the stock.
 6. Finally, Added a BONUS functionality to return the stock with the have return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume".
 
-The time taken to run the script was less than 3 minutes.
+The time taken to run the script was less than 103s minutes. Please refer to the screenshot beloe
+
+**Time Pup-up Message Screen Shots**
+<img width="2560" alt="Screenshot 2024-03-02 at 2 35 55 pm" src="https://github.com/Mono-Co/VBA-challenge/assets/69753431/d63055e2-3565-4d22-864e-1536e796e2b8">
+
 
 Thanks.
 Ben
 
-**Screen Shots**
+**Result Screen Shots**
 This is the 2018 Stock Page - Showing the raw data on the LHS and the resulting data table, conditional formatting and bonus areas on the RHS.
 
 <img width="927" alt="image" src="https://github.com/Mono-Co/VBA-challenge/assets/69753431/b6c41a06-cf08-4abe-b232-9aae04a52386">
